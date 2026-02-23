@@ -55,6 +55,9 @@ const Header = () => {
           <li>
             <Link to="/cart">Cart</Link>
           </li>
+           <li>
+            <Link to="/profile">Profile</Link>
+          </li>
           <li>{name}</li>
           <li>{filteredHotelList.length}</li>
         </ul>
