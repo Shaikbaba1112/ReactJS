@@ -9,38 +9,6 @@ const Profile = () => {
                     <p>+91 98765 43210</p>
                 </div>
             </div>
-
-            <div className="profile-section">
-                <div className="profile-item">
-                    <span>🛒</span>
-                    <p>My Orders</p>
-                </div>
-
-                <div className="profile-item">
-                    <span>📍</span>
-                    <p>Saved Addresses</p>
-                </div>
-
-                <div className="profile-item">
-                    <span>💳</span>
-                    <p>Payments & Refunds</p>
-                </div>
-
-                <div className="profile-item">
-                    <span>🎁</span>
-                    <p>Swiggy One</p>
-                </div>
-
-                <div className="profile-item">
-                    <span>⚙️</span>
-                    <p>Account Settings</p>
-                </div>
-
-                <div className="profile-item logout">
-                    <span>🚪</span>
-                    <p>Logout</p>
-                </div>
-            </div>
         </div>
     )
 }
