@@ -216,7 +216,7 @@ body {
 /* Rating badge */
 .res-card p:first-of-type {
   background: #48c479;
-  color: white;
+  color: rgb(247, 240, 240);
   display: inline-block;
   padding: 4px 12px;
   border-radius: 30px;
