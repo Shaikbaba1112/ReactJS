@@ -282,7 +282,7 @@ body {
 .shimmer-card {
   width: 280px;
   height: 330px;
-  background: #f6f7f8;
+  background: #e7ecf0;
   border-radius: var(--border-radius-card);
   margin: 10px;
   position: relative;
