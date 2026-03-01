@@ -344,7 +344,7 @@ a {
 .menu-item-card:hover {
   box-shadow: var(--shadow-lg);
   transform: scale(1.01) translateY(-2px);
-  background: linear-gradient(to right, #fff, #fff9f5);
+  background: linear-gradient(to right, #fff, #e7e0db);
 }
 
 .menu-item-image {
