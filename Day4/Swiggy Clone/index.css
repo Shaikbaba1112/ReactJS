@@ -354,7 +354,7 @@ a {
   margin-right: 25px;
   width: 100px;
   height: 100px;
-  border: 3px solid white;
+  border: 3px solid rgb(243, 235, 235);
   box-shadow: var(--shadow-sm);
 }
 
