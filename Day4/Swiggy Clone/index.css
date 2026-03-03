@@ -368,7 +368,7 @@ a {
   margin: 30px auto;
   max-width: 900px;
   color: var(--primary);
-  background: white;
+  background: rgb(234, 224, 224);
   padding: 20px 30px;
   border-radius: 60px;
   box-shadow: var(--shadow-sm);
