@@ -497,7 +497,7 @@ a {
 .contact-box button {
   padding: 16px 28px;
   background: var(--primary-gradient);
-  color: white;
+  color: rgb(251, 243, 243);
   border: none;
   border-radius: 50px;
   font-size: 1.1rem;
