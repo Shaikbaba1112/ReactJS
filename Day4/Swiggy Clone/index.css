@@ -539,7 +539,7 @@ a {
 }
 #c-btn:hover {
   background: var(--primary);
-  color: white;
+  color: rgb(243, 234, 234);
 }
 
 /* ===== Grocery & Cart ===== */
