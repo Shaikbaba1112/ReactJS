@@ -427,7 +427,7 @@ a {
 .contact-container {
   margin-top: 100px;
   padding: 60px 20px;
-  background: radial-gradient(circle at 10% 30%, #ffe6d5, #fff);
+  background: radial-gradient(circle at 10% 30%, #e8b694, #fff);
   min-height: calc(100vh - 100px);
   display: flex;
   align-items: center;
