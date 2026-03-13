@@ -662,7 +662,7 @@ a {
 .profile-item:hover {
   transform: translateY(-6px);
   box-shadow: 0 20px 40px rgba(17,24,39,0.08);
-  background: linear-gradient(90deg, rgba(255,123,43,0.03), rgba(255,255,255,0.7));
+  background: linear-gradient(90deg, rgba(255,123,43,0.03), rgba(232, 213, 213, 0.7));
 }
 
 .profile-item.logout {
