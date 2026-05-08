@@ -70,3 +70,9 @@
 // npm install react react-dom
 // npm install -D parcel
 // npx parcel index.html
+
+
+const { useState } = require("react");
+
+const btn = document.getElementById('counter'); btn.textContent = count;
+function Counter() { const [count, setCount] = useState(0); return <h1>{count}</h1>;}
